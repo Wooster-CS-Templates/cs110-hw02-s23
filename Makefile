@@ -13,7 +13,7 @@ test-two:
 	./test-two.sh
 
 gh-test-one: clean all test-one
-gh-test-one: clean all test-two
+gh-test-two: clean all test-two
 
 clean:
 	rm -f one
