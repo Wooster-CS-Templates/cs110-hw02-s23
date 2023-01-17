@@ -285,7 +285,7 @@ cython_debug/
 
 # Test Suite ignore rules
 # TEST OUTPUT
-*/tests-out/
+tests-out/
 
 # PRESERVE TEST DIRS
 !/tests-one/*.out
